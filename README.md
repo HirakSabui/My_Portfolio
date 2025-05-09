@@ -19,7 +19,7 @@ This site highlights my journey as an Electronics & Communication engineering st
 - Profile photo integration
 
 ## 📷 Live Demo
-🌐 [Visit Portfolio](https://your-username.github.io/hirak-portfolio/)
+🌐 [Visit Portfolio](https://hiraksabui.github.io/My_Portfolio/)
 
 ## 📩 Contact Me
 - Email: hiraksabui@gmail.com
